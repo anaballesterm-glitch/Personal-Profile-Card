@@ -7,7 +7,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #abb1ce 0%, #8a6579 100%);
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -68,7 +68,7 @@ body {
 .profile-name {
   font-size: 28px;
   font-weight: 700;
-  color: #ac5bb0;
+  color: #41315a;
   margin-bottom: 8px;
   letter-spacing: -0.5px;
 }
@@ -99,7 +99,7 @@ body {
   gap: 12px;
   font-size: 20px;
   font-weight: 600;
-  color: #1976d2;
+  color: #58646f;
   margin-bottom: 20px;
   padding-bottom: 8px;
   border-bottom: 2px solid #e3f2fd;
@@ -107,7 +107,7 @@ body {
 
 .section-title .material-icons {
   font-size: 24px;
-  color: #1976d2;
+  color: #263e32;
 }
 
 /* ===== SECCIÓN DE HABILIDADES ===== */
